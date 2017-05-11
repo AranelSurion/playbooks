@@ -1,4 +1,4 @@
-Role Name
+installdocker
 =========
 
 Automatically installs latest Docker from APT, and Docker Compose from GitHub.
